@@ -1,0 +1,3 @@
+C:/Users/mys/Desktop/C_teach/third/cmake-build-debug/CMakeFiles/third.dir
+C:/Users/mys/Desktop/C_teach/third/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mys/Desktop/C_teach/third/cmake-build-debug/CMakeFiles/rebuild_cache.dir
